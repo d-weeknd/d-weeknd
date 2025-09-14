@@ -120,8 +120,8 @@
   <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
   
 </p>
-                                                                                                                                        # ❤️  I’LL INTERACT  ❤️  
-
+                                                                                                                                        
+# 🧧  BE MY FRIEND 🧧  
 - 🔴 **BMF / Interact**  
 - 🩸 **Authors / Writers**  
 - ❤️ **People who enjoy Stardew Valley**  
@@ -132,7 +132,7 @@
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
-  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  
   
   
 </p>
