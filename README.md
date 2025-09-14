@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/patootiemunchkin/patootiemunchkin/main/1d545f57dc22d4561d81366cba9b9651.gif" width="100%">
-
-<p align="center">
+ <p align="center">
   <a href="https://shionsy.carrd.com" style="color:#cc0000; font-family:'Courier New', monospace; font-size:16px; text-decoration:none;">
     “A lantern’s glow may be faint, but it is enough to lead the traveler home.”
   </a>
-</p>
+</p>                                                                                                                                                                           <img src="https://raw.githubusercontent.com/patootiemunchkin/patootiemunchkin/main/1d545f57dc22d4561d81366cba9b9651.gif" width="100%">
+
+
 
 <h3 align="center"> 🍄 INFAMOUS SOCIALS 🧧 </h3>
 
