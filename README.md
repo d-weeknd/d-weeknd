@@ -86,7 +86,5 @@
 
 ---
 
-### 💌 Thanks for stopping by!
-</div>
 
 
