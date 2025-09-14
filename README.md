@@ -1,3 +1,5 @@
+![banner](https://i.imgur.com/7ZzW0vZ.png) 
+
 <p align="center">
   <a href="https://shionsy.carrd.com" style="color:#cc0000; font-family:'Courier New', monospace; font-size:16px; text-decoration:none;">
     “A lantern’s glow may be faint, but it is enough to lead the traveler home.”
