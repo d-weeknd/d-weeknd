@@ -1,4 +1,3 @@
-![banner](https://i.imgur.com/7ZzW0vZ.png) 
 
 <p align="center">
   <a href="https://shionsy.carrd.com" style="color:#cc0000; font-family:'Courier New', monospace; font-size:16px; text-decoration:none;">
