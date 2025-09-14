@@ -121,7 +121,7 @@
 </p>
                                                                                                                                         
 # 🧧  BE MY FRIEND 🧧  
-- 🔴 **BMF / Interact**  
+- 🔴 **Gacha / Artist**  
 - 🩸 **Authors / Writers**  
 - ❤️ **People who enjoy Stardew Valley**  
 - 🟥 **Relatively good, normal people**  
