@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/patootiemunchkin/patootiemunchkin/main/d302adcb8cdc87d2b67a456519cfc1a2.jpg" width="700">
 
 <p align="center">
   <a href="https://shionsy.carrd.com" style="color:#cc0000; font-family:'Courier New', monospace; font-size:16px; text-decoration:none;">
@@ -85,6 +86,6 @@
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/USERNAME/REPONAME/main/image1.png" width="700">
+<img src="https://raw.githubusercontent.com/patootiemunchkin/patootiemunchkin/main/d302adcb8cdc87d2b67a456519cfc1a2.jpg" width="700">
 
 
