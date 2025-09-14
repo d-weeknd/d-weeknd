@@ -35,6 +35,8 @@
 </p>
 
 
+<img src="https://github.com/user-attachments/assets/a3a73336-56b9-4538-8407-54b3f1f9ad76" alt="download (18)" width="100%">
+
 
 
 
@@ -46,8 +48,19 @@
 - 🩸 I live with a **personality disorder** and **ADHD**, which may sometimes affect my behavior. Please respect me as I respect you.  
 - 🧣 I enjoy connecting with others, though I sometimes need personal space.  
 - 🍒 Languages: **English** and **Tagalog**, with some knowledge of other languages.  
+  
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">                                   <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">                                  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+</p>
 
----
+
 
 # 🌹 My Interests
 
@@ -56,9 +69,20 @@
 - ❤️ C-dramas and K-pop  
 - 📕 Book series  
 - 🖌️ Painting & drawing  
-- 🔥 Creative writing — *and if you’re asking whether I’m really an author, come sort it out, hehe!*  
+- 🔥 Creative writing — *and if you’re asking whether I’m really an author, come sort it out, hehe!*                                                          
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  
+</p>
 
----
+
 
 # 🍒 Before You Interact (Games / Chat)
 
@@ -68,26 +92,77 @@
 - 🩸 If you add any of my socials, **please update me first** — I only accept people I know.  
 - 🧣 Sometimes I’ll need **personal space or time** with someone, so please understand.  
 - 🍓 I play many games but may not always be active (real life keeps me busy).  
-- ❤️ We can play together — just ask for the code! *(And yes please)*  
+- ❤️ We can play together — just ask for the code! *(And yes please)*                                                                                  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
+  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
+  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
+  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
+  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
+  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
+  
+</p>
 
----
+# 🚫 𓆩 DNI LIST 𓆪 🚫  
+*(Do Not Interact / Not Welcome)*  
 
+- 🩸 **Real-life gore enjoyers**  
+- 🔥 **Proship / darkship / anti-anti / “fiction doesn’t affect reality” crowd**  
+- 🚫 **Supporters of harmful paraphilias** (pedo, zoo, necro, rape, incest, etc.)  
+- 💢 **Rude for no reason and doesn`t know what privacy is**  
+- 🟥 **Communities that glorify real-life horrors** (historical/OCs are fine if not romanticizing atrocities)  
+- 🩸 **True crime fandom communities** (casual listeners okay, just don’t bring it up with me)  
+- ❤️‍🩹 **Homophobic people**  
+- 🟥 **Racist and insensitive people**  
+- 🔴 **Pedo defenders / enablers**  
+- ❌ **Overly negative or critical without reason**                                                                                                                                                                                                                                 
+                                                                                                                                     
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">                                   <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">                                  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+</p>
+                                                                                                                                        # ❤️  I’LL INTERACT  ❤️  
+
+- 🔴 **BMF / Interact**  
+- 🩸 **Authors / Writers**  
+- ❤️ **People who enjoy Stardew Valley**  
+- 🟥 **Relatively good, normal people**  
+- 🔥 **Kind CODM players**  
+- ❤️‍🔥 **Obsessed with SKY: Children of the Light**                                                                                                   
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
+  
+</p>
+                                                                                                                                               
 # 🔥 Links
 
 <p align="center">
   <a href="https://shionsy.carrd.co/" target="_blank">🌹 Carrd</a> │ 
   <a href="https://Shua.atabook.org" target="_blank">🍒 Atabook</a>
-</p>
 
----
+
 
 <p align="center">
   <em>“The moon does not rush to be full, yet it always shines when the night needs it most.”</em>
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/patootiemunchkin/patootiemunchkin/main/c9f149f0-4b6c-42f4-8f5d-21c972db2b41"width="100%">
 
+<img src="https://github.com/user-attachments/assets/9ec6ee5a-11ab-45b2-9697-12d8b17f1bcb" alt="download" width="100%">
 
 
 
