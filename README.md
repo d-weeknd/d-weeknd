@@ -75,6 +75,9 @@
   
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05431a08-f525-4f54-86fa-7edb2ba6f0f2" alt="banner" width="100%" />
+</p>
 
 
 # 🍒 Before You Interact (Games / Chat)
@@ -133,7 +136,11 @@
   
   
 </p>
-                                                                                                                                               
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/dfcb0041-fe57-43ce-8cd8-45a4c8451f3c" alt="banner" width="100%" />
+</p>
+
+                                                                                                                                              
 # 🔥 Links
 
 <p align="center">
