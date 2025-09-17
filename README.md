@@ -65,7 +65,7 @@
 - 🎈 Anime, manhwa, manga, comics  
 - ❤️ C-dramas and K-pop  
 - 📕 Book series  
-- 🖌️ Painting & drawing  
+- 🍒 Painting & drawing  
 - 🔥 Creative writing — *and if you’re asking whether I’m really an author, come sort it out, hehe!*                                                          
 <p align="center">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
@@ -100,16 +100,16 @@
 # 🚫 𓆩 DNI LIST 𓆪 🚫  
 *(Do Not Interact / Not Welcome)*  
 
-- 🩸 **Real-life gore enjoyers**  
+- 🍅 **Real-life gore enjoyers**  
 - 🔥 **Proship / darkship / anti-anti / “fiction doesn’t affect reality” crowd**  
 - 🚫 **Supporters of harmful paraphilias** (pedo, zoo, necro, rape, incest, etc.)  
 - 💢 **Rude for no reason and doesn`t know what privacy is**  
-- 🟥 **Communities that glorify real-life horrors** (historical/OCs are fine if not romanticizing atrocities)  
+- 💥 **Communities that glorify real-life horrors** (historical/OCs are fine if not romanticizing atrocities)  
 - 🩸 **True crime fandom communities** (casual listeners okay, just don’t bring it up with me)  
 - ❤️‍🩹 **Homophobic people**  
-- 🟥 **Racist and insensitive people**  
-- 🔴 **Pedo defenders / enablers**  
-- ❌ **Overly negative or critical without reason**                                                                                                                                                                                                                                 
+- 🍎 **Racist and insensitive people**  
+- 🏮 **Pedo defenders / enablers**  
+- 🍓 **Overly negative or critical without reason**                                                                                                                                                                                                                                 
                                                                                                                                      
 </p>
 <p align="center">
@@ -121,13 +121,13 @@
 </p>
                                                                                                                                         
 # 🧧  BE MY FRIEND 🧧  
-- 🔴 **Gacha / Artist**  
+- 🍒 **Gacha / Artist**  
 - 🩸 **Authors / Writers**  
-- ❤️ **People who enjoy Stardew Valley**  
-- 🟥 **Relatively good, normal people**  
+- 🏮 **People who enjoy Stardew Valley**  
+- 🌶️ **Relatively good, normal people**  
 - 🔥 **Kind CODM players**  
 - ❤️‍🔥 **Obsessed with SKY: Children of the Light**  
-- 🩸 **CRK FAN!**                                                                                                 
+- 🚨 **COOKIE RUN FAN!**                                                                                                 
  <p align="center">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
