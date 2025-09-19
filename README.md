@@ -188,6 +188,8 @@
 
 <img src="https://github.com/user-attachments/assets/9ec6ee5a-11ab-45b2-9697-12d8b17f1bcb" alt="download" width="100%">
 
+![Profile views](https://komarev.com/ghpvc/?username=patootiemunchkin&label=Views&color=ff69b4&style=for-the-badge)
+
 
 
 
