@@ -62,11 +62,17 @@
 # 🌹 My Interests
 
 - 🍓 Cosplay  
+
 - 🎈 Anime, manhwa, manga, comics  
+
 - ❤️ C-dramas and K-pop  
+
 - 📕 Book series  
+
 - 🍒 Painting & drawing  
-- 🔥 Creative writing — *and if you’re asking whether I’m really an author, come sort it out, hehe!*                                                          
+
+- 🔥 Creative writing — *and if you’re asking whether I’m really an author, come sort it out, hehe!*    
+                                                      
 <p align="center">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
@@ -82,13 +88,20 @@
 
 # 🍒 Before You Interact (Games / Chat)
 
-- 🔥 **Whisper to interact** — I’m often semi-AFK or off-tab, so please be patient if I take a while to reply.  
+- 🔥 **Whisper to interact** — I’m often semi-AFK or off-tab, so please be patient if I take a while to reply. 
+ 
 - 🌹 **Ask permission** for cuddle/hide interactions (C+H); I may feel uncomfortable, especially with people I don’t know well.  
+
 - 🎈 **Feel free to take inspiration** or copy from me, but don’t claim it as your own.  
+
 - 🩸 If you add any of my socials, **please update me first** — I only accept people I know.  
+
 - 🧣 Sometimes I’ll need **personal space or time** with someone, so please understand.  
+
 - 🍓 I play many games but may not always be active (real life keeps me busy).  
-- ❤️ We can play together — just ask for the code! *(And yes please)*                                                                                  
+
+- ❤️ We can play together — just ask for the code! *(And yes please)*                   
+                                                               
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
   <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
@@ -101,15 +114,25 @@
 *(Do Not Interact / Not Welcome)*  
 
 - 🍅 **Real-life gore enjoyers**  
+
 - 🔥 **Proship / darkship / anti-anti / “fiction doesn’t affect reality” crowd**  
+
 - 🚫 **Supporters of harmful paraphilias** (pedo, zoo, necro, rape, incest, etc.)  
-- 💢 **Rude for no reason and doesn`t know what privacy is**  
-- 💥 **Communities that glorify real-life horrors** (historical/OCs are fine if not romanticizing atrocities)  
-- 🩸 **True crime fandom communities** (casual listeners okay, just don’t bring it up with me)  
+
+- 💢 **Rude for no reason and doesn`t know what privacy is**
+  
+- 💥 **Communities that glorify real-life horrors** (historical/OCs are fine if not romanticizing atrocities) 
+ 
+- 🩸 **True crime fandom communities** (casual listeners okay, just don’t mention)  
+
 - ❤️‍🩹 **Homophobic people**  
+
 - 🍎 **Racist and insensitive people**  
+
 - 🏮 **Pedo defenders / enablers**  
-- 🍓 **Overly negative or critical without reason**                                                                                                                                                                                                                                 
+
+- 🍓 **Overly negative or critical without reason**   
+                                                                                                                                                                                                                              
                                                                                                                                      
 </p>
 <p align="center">
@@ -121,13 +144,21 @@
 </p>
                                                                                                                                         
 # 🧧  BE MY FRIEND 🧧  
+
 - 🍒 **Gacha / Artist**  
+
 - 🩸 **Authors / Writers**  
+
 - 🏮 **People who enjoy Stardew Valley**  
+
 - 🌶️ **Relatively good, normal people**  
+
 - 🔥 **Kind CODM players**  
+
 - ❤️‍🔥 **Obsessed with SKY: Children of the Light**  
-- 🚨 **COOKIE RUN FAN!**                                                                                                 
+
+- 🚨 **COOKIE RUN FAN!**           
+                                                                                      
  <p align="center">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
