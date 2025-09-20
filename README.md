@@ -199,14 +199,11 @@
 
 <div align="center">
 
----
-
 
 ![💋](https://komarev.com/ghpvc/?username=patootiemunchkin&label=—%20💋&color=red&style=for-the-badge)
 
 ![🎀](https://img.shields.io/badge/—%20🎀-56895-blue?style=for-the-badge)
 
----
 
 </div>
 
