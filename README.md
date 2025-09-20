@@ -189,13 +189,14 @@
 <img src="https://github.com/user-attachments/assets/9ec6ee5a-11ab-45b2-9697-12d8b17f1bcb" alt="download" width="100%">
 
 
+<div align="center">
 
 ---
 
 
-![💋](https://komarev.com/ghpvc/?username=patootiemunchkin&label=👀%20Views&color=red&style=for-the-badge)
+![💋](https://komarev.com/ghpvc/?username=patootiemunchkin&label=—%20💋&color=red&style=for-the-badge)
 
-![🎀](https://img.shields.io/badge/Cool%20People-56895-blue?style=for-the-badge)
+![🎀](https://img.shields.io/badge/—%20🎀-56895-blue?style=for-the-badge)
 
 ---
 
