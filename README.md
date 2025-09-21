@@ -201,34 +201,10 @@
 
 <div align="center">
 
+  <!-- Profile Views (Red) -->
   <img src="https://komarev.com/ghpvc/?username=patootiemunchkin&label=—%20💋&color=red&style=for-the-badge" alt="💋" />
 
-  <img src="https://img.shields.io/badge/—%20🎀-56895-blue?style=for-the-badge" alt="🎀" />
-
-  <a href="https://github.com/patootiemunchkin?tab=repositories">
-    <img src="https://img.shields.io/github/stars/patootiemunchkin?label=—%20⭐&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  </a>
-
-
-</div>
-
-
-<div align="center">
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=patootiemunchkin&label=—%20💋&color=red&style=for-the-badge" alt="💋" />
-
-  <!-- Custom Badge -->
-  <img src="https://img.shields.io/badge/—%20🎀-56895-red?style=for-the-badge" alt="🎀" />
-
-  <!-- Followers Badge -->
-  <a href="https://github.com/patootiemunchkin?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/patootiemunchkin?label=—%20🔖&style=for-the-badge&color=red" alt="GitHub Followers" />
-  </a>
-
-  <!-- Stars Badge -->
-  <a href="https://github.com/patootiemunchkin?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/stars/patootiemunchkin?label=—%20⭐&style=for-the-badge&color=red" alt="GitHub Stars" />
-  </a>
+  <!-- Custom Badge (Pink) -->
+  <img src="https://img.shields.io/badge/—%20🎀-56895-ff69b4?style=for-the-badge" alt="🎀" />
 
 </div>
