@@ -203,7 +203,7 @@
 
   <img src="https://img.shields.io/badge/—%20🎀-56895-blue?style=for-the-badge" alt="🎀" />
 
-  <img src="https://hits.sh/shua.atabook.org.svg?label=—%20🔖&color=blue&style=for-the-badge" alt="🔖" />
+    <img src="https://hits.sh/shionsy.carrd.co.svg?label=—%20🔖&color=blue&style=for-the-badge" alt="🔖" />
 
 </div>
 
