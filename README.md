@@ -224,13 +224,6 @@
 </div>
 
 
-
-
-
-
-
-
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=patootiemunchkin&theme=radical&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j)
 
 <div align="center">
@@ -249,3 +242,9 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patootiemunchkin&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4)
+
+![Snake animation](https://github.com/patootiemunchkin/patootiemunchkin/blob/output/github-contribution-grid-snake.svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=patootiemunchkin&theme=radical&row=1&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patootiemunchkin&bg_color=000000&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
