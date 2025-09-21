@@ -205,8 +205,9 @@
 
   <img src="https://img.shields.io/badge/—%20🎀-56895-blue?style=for-the-badge" alt="🎀" />
 
-  <a href="https://github.com/patootiemunchkin?tab=followers">
-    <img src="https://img.shields.io/github/followers/patootiemunchkin?label=—%20🔖&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <a href="https://github.com/patootiemunchkin?tab=repositories">
+    <img src="https://img.shields.io/github/stars/patootiemunchkin?label=—%20⭐&style=for-the-badge&color=yellow" alt="GitHub Stars" />
   </a>
+
 
 </div>
