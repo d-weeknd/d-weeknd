@@ -218,6 +218,11 @@
     <img src="https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=—🍓" alt="Followers" />
   </a>
 
+  <!-- Followers (Pink) -->
+  <a href="https://github.com/patootiemunchkin?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=—🍓" alt="Followers" />
+  </a>
+
   <!-- Carrd (Yellow) -->
   <a href="https://shionsy.carrd.co/" target="_blank">
     <img src="https://img.shields.io/badge/—🚩-yellow?style=for-the-badge" alt="Carrd" />
