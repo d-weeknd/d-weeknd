@@ -206,10 +206,11 @@
   <!-- Custom Badge (Orange) -->
   <img src="https://img.shields.io/badge/—%20🎀-56895-orange?style=for-the-badge" alt="🎀" />
 
+![—💥](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=red&label=Stars)
+
 
 </div>
 
-![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=red&label=Stars)
 
 
 <div align="center">
