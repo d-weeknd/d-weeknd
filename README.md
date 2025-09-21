@@ -224,18 +224,28 @@
 </div>
 
 
-<div align="center">
 
-![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=pink&label=🍒)
 
-![Followers](https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=🔖)
 
-</div>
+
 
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=patootiemunchkin&theme=radical&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j)
 
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=pink&label=🍒)
+
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patootiemunchkin&layout=compact&theme=radical&hide_border=true)
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=🔖)
+
+</div>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patootiemunchkin&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4)
