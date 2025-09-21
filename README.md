@@ -209,19 +209,11 @@
 
 </div>
 
+<img src="https://img.shields.io/badge/—%20🎀-56895-ff69b4?style=for-the-badge" alt="🎀" />  
+
 
 
 <div align="center">
-
-  <!-- Followers (Pink) -->
-  <a href="https://github.com/patootiemunchkin?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=—🍓" alt="Followers" />
-  </a>
-
-  <!-- Followers (Pink) -->
-  <a href="https://github.com/patootiemunchkin?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=—🍓" alt="Followers" />
-  </a>
 
   <!-- Carrd (Yellow) -->
   <a href="https://shionsy.carrd.co/" target="_blank">
