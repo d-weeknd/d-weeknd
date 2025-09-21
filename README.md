@@ -228,7 +228,7 @@
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=pink&label=🍒)
+![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=orange&label=🍒)
 
 </div>
 
@@ -241,8 +241,8 @@
 </div>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patootiemunchkin&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patootiemunchkin&show_icons=true&theme=radical&title_color=cb4c46&icon_color=960018)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=patootiemunchkin&theme=radical&row=1&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patootiemunchkin&bg_color=000000&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patootiemunchkin&bg_color=000000&color=960018&line=cb4c46&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
