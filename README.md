@@ -206,13 +206,16 @@
   <!-- Custom Badge (Orange) -->
   <img src="https://img.shields.io/badge/—%20🎀-56895-orange?style=for-the-badge" alt="🎀" />
 
-  <!-- GitHub Stars (Pink) -->
-  <a href="https://github.com/patootiemunchkin?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=ff69b4&label=—💥" alt="Stars" />
-  </a>
-
 </div>
 
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=pink&label=🍒)
+
+![Followers](https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=🔖)
+
+</div>
 
 
 <div align="center">
