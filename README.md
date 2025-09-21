@@ -222,7 +222,7 @@
 
   <!-- Carrd (Yellow) -->
   <a href="https://shionsy.carrd.co/" target="_blank">
-    <img src="https://img.shields.io/badge/—🚩-yellow?style=for-the-badge" alt="Carrd" />
+    <img src="https://img.shields.io/badge/—🚩-pink?style=for-the-badge" alt="Carrd" />
   </a>
 
   <!-- Discord (Grey) -->
