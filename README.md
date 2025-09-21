@@ -198,27 +198,36 @@
 </p>
 
 
-
 <div align="center">
 
   <!-- Profile Views (Red) -->
   <img src="https://komarev.com/ghpvc/?username=patootiemunchkin&label=—%20💋&color=red&style=for-the-badge" alt="💋" />
 
-  <!-- Custom Badge (Pink) -->
-  <img src="https://img.shields.io/badge/—%20🎀-56895-ff69b4?style=for-the-badge" alt="🎀" />
+  <!-- Custom Badge (Orange) -->
+  <img src="https://img.shields.io/badge/—%20🎀-56895-orange?style=for-the-badge" alt="🎀" />
+
+  <!-- GitHub Stars (White + Clickable) -->
+  <a href="https://github.com/patootiemunchkin?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=white&label=—%20🔖" alt="🔖" />
+  </a>
 
 </div>
+
+
 
 <div align="center">
 
+  <!-- Followers (Pink) -->
+  ![—🍓](https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=Followers)
 
-![—🔖](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=red&label=Stars)
+  <!-- Carrd (Yellow) -->
+  [![—🚩](https://img.shields.io/badge/—%20🚩-yellow?style=for-the-badge)](https://shionsy.carrd.co/)
 
-![Followers](https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=Followers)
-
-[![Carrd](https://img.shields.io/badge/—%20🌸-ff69b4?style=for-the-badge)](https://shionsy.carrd.co/)
+  <!-- Discord (Grey) -->
+  [![—🍅](https://img.shields.io/badge/—%20yien.shea-grey?style=for-the-badge&logo=discord&logoColor=white)](https://shionsy.carrd.co/)
 
 </div>
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=patootiemunchkin&theme=radical&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j)
 
