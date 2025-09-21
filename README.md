@@ -203,8 +203,7 @@
 
   <img src="https://img.shields.io/badge/—%20🎀-56895-blue?style=for-the-badge" alt="🎀" />
 
+ <img src="https://hits.sh/shua.atabook.org.svg?style=for-the-badge&label=—%20🔖" alt="🔖" />
+
 </div>
 
-<div align="center">
-  <img src="https://hits.sh/shua.atabook.org.svg?style=for-the-badge&label=Atabook%20Views" alt="Atabook Views" />
-</div>
