@@ -206,8 +206,6 @@
   <!-- Custom Badge (Orange) -->
   <img src="https://img.shields.io/badge/—%20🎀-56895-orange?style=for-the-badge" alt="🎀" />
 
-  <!-- GitHub Stars (White) -->
-  <img src="https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=white&label=—%20🔖" alt="🔖" />
 
 </div>
 
@@ -216,13 +214,19 @@
 <div align="center">
 
   <!-- Followers (Pink) -->
-  ![—🍓](https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=Followers)
+  <a href="https://github.com/patootiemunchkin?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=—🍓" alt="Followers" />
+  </a>
 
   <!-- Carrd (Yellow) -->
-  [![—🚩](https://img.shields.io/badge/—%20🚩-yellow?style=for-the-badge)](https://shionsy.carrd.co/)
+  <a href="https://shionsy.carrd.co/" target="_blank">
+    <img src="https://img.shields.io/badge/—🚩-yellow?style=for-the-badge" alt="Carrd" />
+  </a>
 
   <!-- Discord (Grey) -->
-  [![—🍅](https://img.shields.io/badge/—%20yien.shea-grey?style=for-the-badge&logo=discord&logoColor=white)](https://shionsy.carrd.co/)
+  <a href="https://shionsy.carrd.co/" target="_blank">
+    <img src="https://img.shields.io/badge/—yien.shea-grey?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 
 </div>
 
