@@ -205,3 +205,6 @@
 
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/endpoint?url=https://yourserver.com/atabook-replies.json&style=for-the-badge" alt="Atabook Replies Badge" />
+</div>
