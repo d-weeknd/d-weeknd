@@ -5,14 +5,6 @@
   </a>
 </p>                                                                                                                                                                           <img src="https://raw.githubusercontent.com/patootiemunchkin/patootiemunchkin/main/1d545f57dc22d4561d81366cba9b9651.gif" width="100%">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
-  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
-  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
-  
-  
-</p>
-
 
 
 <h3 align="center"> 🍄 INFAMOUS SOCIALS 🧧 </h3>
@@ -47,9 +39,16 @@
 <img src="https://github.com/user-attachments/assets/a3a73336-56b9-4538-8407-54b3f1f9ad76" alt="download (18)" width="100%">
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
+  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
+  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
+  
+  
+</p>
 
 
----
+
 
 # ❤️ About Me
 
