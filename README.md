@@ -198,13 +198,15 @@
 </p>
 
 
+
 <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=patootiemunchkin&label=—%20💋&color=red&style=for-the-badge" alt="💋" />
 
   <img src="https://img.shields.io/badge/—%20🎀-56895-blue?style=for-the-badge" alt="🎀" />
 
-  <img src="https://hits.sh/shionsy.carrd.co.svg?label=—%20🔖&color=blue&style=for-the-badge" alt="🔖" />
+  <a href="https://github.com/patootiemunchkin?tab=followers">
+    <img src="https://img.shields.io/github/followers/patootiemunchkin?label=—%20🔖&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  </a>
 
 </div>
-
