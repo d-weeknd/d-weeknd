@@ -236,14 +236,12 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=🔖)
+![Followers](https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=cb4c46&label=🔖)
 
 </div>
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patootiemunchkin&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4)
-
-![Snake animation](https://github.com/patootiemunchkin/patootiemunchkin/blob/output/github-contribution-grid-snake.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=patootiemunchkin&theme=radical&row=1&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
