@@ -226,12 +226,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=patootiemunchkin&theme=radical&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j)
 
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=orange&label=🍒)
-
-</div>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patootiemunchkin&layout=compact&theme=radical&hide_border=true)
 
 <div align="center">
@@ -245,4 +239,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=patootiemunchkin&theme=radical&row=1&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patootiemunchkin&bg_color=000000&color=960018&line=cb4c46&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patootiemunchkin&bg_color=000000&color=cb4c46&line=cb4c46&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=orange&label=🍒)
+
+</div>
