@@ -209,4 +209,12 @@
 
 </div>
 
-![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=red&label=Stars)
+![—🔖](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=red&label=Stars)
+
+![Followers](https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=Followers)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=patootiemunchkin&theme=radical&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j)
+
+[![Carrd](https://img.shields.io/badge/—%20🌸-ff69b4?style=for-the-badge)](https://shionsy.carrd.co/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patootiemunchkin&layout=compact&theme=radical&hide_border=true)
