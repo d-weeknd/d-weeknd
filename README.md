@@ -211,15 +211,6 @@
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=pink&label=🍒)
-
-![Followers](https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=🔖)
-
-</div>
-
-
-<div align="center">
-
   <!-- Carrd (Yellow) -->
   <a href="https://shionsy.carrd.co/" target="_blank">
     <img src="https://img.shields.io/badge/—🚩-pink?style=for-the-badge" alt="Carrd" />
@@ -231,6 +222,16 @@
   </a>
 
 </div>
+
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=pink&label=🍒)
+
+![Followers](https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=🔖)
+
+</div>
+
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=patootiemunchkin&theme=radical&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j)
