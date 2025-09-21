@@ -217,20 +217,6 @@
 
 </div>
 
-<div align="center">
-
-  <!-- Stars (Pink) -->
-  <a href="https://github.com/patootiemunchkin?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=pink&label=🍒" alt="Stars" />
-  </a>
-
-  <!-- Followers (Pink) -->
-  <a href="https://github.com/patootiemunchkin?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/patootiemunchkin?style=for-the-badge&color=ff69b4&label=🔖" alt="Followers" />
-  </a>
-
-</div>
-
 
 <div align="center">
 
