@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
+  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
+  <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
+  
+  
+</p>
+
+
  <p align="center">
   <a href="https://shionsy.carrd.com" style="color:#cc0000; font-family:'Courier New', monospace; font-size:16px; text-decoration:none;">
     “A lantern’s glow may be faint, but it is enough to lead the traveler home.”
