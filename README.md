@@ -208,3 +208,5 @@
   <img src="https://img.shields.io/badge/—%20🎀-56895-ff69b4?style=for-the-badge" alt="🎀" />
 
 </div>
+
+![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=red&label=Stars)
