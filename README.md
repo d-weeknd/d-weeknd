@@ -151,7 +151,7 @@
   
 </p>
                                                                                                                                         
-# 🧧  BE MY FRIEND 🧧  
+# 🧧  BE MY FRIEND (int) 🧧  
 
 - 🍒 **Gacha / Artist**  
 
