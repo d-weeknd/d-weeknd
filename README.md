@@ -93,6 +93,14 @@
   <img src="https://github.com/user-attachments/assets/05431a08-f525-4f54-86fa-7edb2ba6f0f2" alt="banner" width="100%" />
 </p>
 
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
+  
+</p>
+
 
 # 🍒 Before You Interact (Games / Chat)
 
