@@ -266,6 +266,13 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patootiemunchkin&bg_color=000000&color=cb4c46&line=cb4c46&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=orange&label=🍒)
+
+</div>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
@@ -274,8 +281,3 @@
   
 </p>
 
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/patootiemunchkin?style=for-the-badge&color=orange&label=🍒)
-
-</div>
