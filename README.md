@@ -243,12 +243,7 @@
 </div>
 
 
-<div align="center">
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=patootiemunchkin&theme=radical&hide_border=true&border_radius=20" alt="GitHub Streak" />
-
-</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patootiemunchkin&layout=compact&theme=radical&hide_border=true)
 
