@@ -246,7 +246,7 @@
 <div align="center">
 
   <!-- GitHub Streak -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=patootiemunchkin&theme=radical&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=patootiemunchkin&theme=radical&hide_border=true&border_radius=20" alt="GitHub Streak" />
 
 </div>
 
