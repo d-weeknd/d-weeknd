@@ -242,7 +242,13 @@
 
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=patootiemunchkin&theme=radical&hide_border=true&border_radius=20&date_format=%5Bd%20M,%20Y%5D)
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=patootiemunchkin&theme=radical&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patootiemunchkin&layout=compact&theme=radical&hide_border=true)
 
@@ -252,8 +258,8 @@
 
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patootiemunchkin&show_icons=true&theme=radical&title_color=cb4c46&icon_color=960018)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=patootiemunchkin&theme=radical&ring=ff69b4&fire=ff69b4)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=patootiemunchkin&theme=radical&row=1&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
