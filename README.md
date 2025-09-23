@@ -173,7 +173,10 @@
 
 - ❤️‍🔥 **Obsessed with SKY: Children of the Light**  
 
-- 🚨 **COOKIE RUN FAN!**           
+- 🚨 **COOKIE RUN FAN!** 
+
+- 🧣 **Non-toxic LoL players**
+          
                                                                                       
  <p align="center">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
