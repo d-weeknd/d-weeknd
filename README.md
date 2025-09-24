@@ -79,6 +79,8 @@
 
 - 🍒 Painting & drawing  
 
+- 🧣 CRK
+
 - 🔥 Creative writing — *and if you’re asking whether I’m really an author, come sort it out, hehe!*    
                                                       
 <p align="center">
