@@ -245,10 +245,10 @@
 </div>
 
 
-
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-weeknd&layout=compact&theme=radical&hide_border=true)
-
+</div>                                                                                                                                                        
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/d-weeknd?style=for-the-badge&color=cb4c46&label=🔖)
