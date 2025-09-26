@@ -254,7 +254,7 @@
 ![Followers](https://img.shields.io/github/followers/d-weeknd?style=for-the-badge&color=cb4c46&label=🔖)
 
 </div>
-                                                                                                                                         <div align="center">                                                                                                                                   
+                                                                                                                                    <div align="center">                                                                                                                                   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-weeknd&show_icons=true&theme=radical&title_color=cb4c46&icon_color=960018)                                                                               
 </div> 
 
