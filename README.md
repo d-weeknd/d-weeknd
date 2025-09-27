@@ -81,9 +81,9 @@
 
 - 🧣 CRK
 
-- 🔥 Creative writing — *and if you’re asking whether I’m really an author, come sort it out, hehe!*   
+- 🔥 Creative writing — *and if you’re asking whether I’m really an author, come sort it out, hehe!*  
 
-- 💋 Graphic Design — **Open for commissions!*"
+- 💋 Graphic Design — **Open for commissions!**
                                                       
 <p align="center">
   <img src="https://github.com/user-attachments/assets/abce873b-e816-47e7-bcfa-655937ba656f" width="100">
