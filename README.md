@@ -287,4 +287,9 @@
 
 </div>
 
+<p align="center">
+  <em>“A pearl forms slowly, hidden within the shell, unseen by the world. But the sea knows its treasure, and so must you. Do not measure your worth by who notices you now; your time to shine will come when the tides reveal you.”
+</em>
+</p>
+
 
