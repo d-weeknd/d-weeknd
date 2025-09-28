@@ -135,7 +135,7 @@
 
 - 🍅 **Real-life gore enjoyers**  
 
-- 🔥 **Proship / darkship / anti-anti / “fiction doesn’t affect reality” crowd**  
+- 🔥 **Proship / darkship / “fiction doesn’t affect reality” crowd**  
 
 - 🚫 **Supporters of harmful paraphilias** (pedo, zoo, necro, rape, incest, etc.)  
 
