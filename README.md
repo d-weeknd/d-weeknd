@@ -38,6 +38,11 @@
 
 <img src="https://github.com/user-attachments/assets/a3a73336-56b9-4538-8407-54b3f1f9ad76" alt="download (18)" width="100%">
 
+<p align="center">
+  <em> “My beloved is a brave, noble, and gracious special someone... He’s saved my life; I’ve looked up to him ever since I was young. But, I want to catch up to him more, and become even stronger for him. Although he might not remember me well. We never really talked. I want to protect him.” 
+</em>
+</p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
