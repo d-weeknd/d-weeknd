@@ -38,10 +38,7 @@
 
 <img src="https://github.com/user-attachments/assets/a3a73336-56b9-4538-8407-54b3f1f9ad76" alt="download (18)" width="100%">
 
-<p align="center">
-  <em> “My beloved is a brave, noble, and gracious special someone... He’s saved my life; I’ve looked up to him ever since I was young. But, I want to catch up to him more, and become even stronger for him. Although he might not remember me well. We never really talked. I want to protect him.” 
-</em>
-</p>
+
 
 
 <p align="center">
@@ -101,6 +98,13 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/05431a08-f525-4f54-86fa-7edb2ba6f0f2" alt="banner" width="100%" />
 </p>
+
+
+<p align="center">
+  <em> “My beloved is a brave, noble, and gracious special someone... He’s saved my life; I’ve looked up to him ever since I was young. But, I want to catch up to him more, and become even stronger for him. Although he might not remember me well. We never really talked. I want to protect him.” 
+</em>
+</p>
+
 
  <p align="center">
   <img src="https://github.com/user-attachments/assets/ae983028-31f5-440f-a00b-8817d0fd7c85" width="80">
