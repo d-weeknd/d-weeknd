@@ -180,6 +180,8 @@
 - 🚨 **COOKIE RUN FAN!** 
 
 - 🧣 **Non-toxic LoL players**
+
+- 🍓 **Bloodstrike!**  
           
                                                                                       
  <p align="center">
