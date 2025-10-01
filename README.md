@@ -129,7 +129,10 @@
 
 - 🍓 I play many games but may not always be active (real life keeps me busy).  
 
-- ❤️ We can play together — just ask for the code! *(And yes please)*                   
+- ❤️ We can play together — just ask for the code! *(And yes please)*            
+
+- 📕 I’m mostly online on weekends.
+       
                                                                
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dfd24bd4-03ab-48b9-be06-959db33a6a5d" width="120">
