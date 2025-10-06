@@ -79,7 +79,7 @@
 
 - 📕 Book series  
 
-- 🍒 Painting & drawing (digital & manual)
+- 🍒 Painting & drawing **(digital & manual)**
 
 - 🧣 CRK
 
