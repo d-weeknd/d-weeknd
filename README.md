@@ -179,6 +179,8 @@
 
 - 🍒 **Gacha / Artist**  
 
+- 🍅 **Minecraft!**
+
 - 🩸 **Authors / Writers**  
 
 - 🏮 **People who enjoy Stardew Valley**  
